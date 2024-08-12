@@ -1,6 +1,9 @@
 # Plot_virtual_screening_data
 
 This repository contains a jupyter-notebook example of how to plot and compare two sets of screening data for the same proteins.
+
+![example_rmsf.png](https://github.com/susannehermans/Plot_virtual_screening_data/blob/main/example/violinplot_fittversky.png?raw=true)
+
 Feel free to use the code for plotting your own data. 
 This code was developed using Python3.7. 
 by *Susanne Hermans*
