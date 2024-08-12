@@ -21,6 +21,7 @@ This notebook requires the following Python packages to run:
   sys
   matplotlib
   seaborn 
+  math
 
 ## Misc
 
