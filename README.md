@@ -16,12 +16,12 @@ Clone data to your own machine and open plot_screening_data_from_pickle.ipynb in
 ## Dependency
 
 This notebook requires the following Python packages to run:
-  pandas
-  numpy
-  sys
-  matplotlib
-  seaborn 
-  math
+  * pandas
+  * numpy
+  * sys
+  * matplotlib
+  * seaborn 
+  * math
 
 ## Misc
 
