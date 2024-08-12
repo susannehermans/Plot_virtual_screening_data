@@ -6,7 +6,7 @@ This repository contains a jupyter-notebook example of how to plot and compare t
 
 Feel free to use the code for plotting your own data. 
 This code was developed using Python3.7. 
-by *Susanne Hermans*
+*by *Susanne Hermans*
 
 ## Usage
 
